@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ClienteEco
+comment0.text=Escribe\ un\ programa\ en\ java,\ llamado\ \u201CClienteEco\u201D,\ que\ conecte\ al\ puerto\ 7\ \r\n(servicio\ de\ eco)\ del\ servidor\ \u201Czoltar.redes.upv.es\u201D,\ transmita\ la\ l\u00EDnea\ de\ \r\ntexto\ \u201C\u00A1\u00A1Hola,\ Mundo\!\!\u201D,\ lea\ la\ primera\ l\u00EDnea\ de\ texto\ que\ devuelve\ el\ servidor\ \r\ny\ la\ imprima\ por\ pantalla,\ de\ forma\ similar\ al\ ejercicio\ 4.
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
